@@ -54,8 +54,9 @@ Or on Windows, simply double-click `run_app.bat`.
 The dataset includes patient attributes such as age, sex, chest pain type, resting blood pressure, cholesterol, fasting blood sugar, ECG results, max heart rate, and more — sourced from the UCI Machine Learning Repository.
 
 ## 👤 Author
+**Md Zahid Hossain (Zahid074)** — CSE, East West University — [GitHub](https://github.com/Zahid074)
 
-- **Md Zahid Hossain (Zahid074)** — CSE, East West University — [GitHub](https://github.com/Zahid074)
+## 🤝 Contributors
 - **Marjan Hasan (Marjan15H)** — CSE, East West University — [GitHub](https://github.com/Marjan15H)
 - **Marzia Hasan (Marzia-H)** — CSE, East West University — [GitHub](https://github.com/Marzia-H)
 - **Md Hasan Al Mamun** — CSE, East West University
