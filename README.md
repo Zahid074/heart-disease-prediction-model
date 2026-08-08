@@ -55,9 +55,19 @@ The dataset includes patient attributes such as age, sex, chest pain type, resti
 
 ## 👤 Author
 
-**Md Zahid Hossain (Sheikh-M-Zahid)**
+**Md Zahid Hossain (Zahid074)**
 CSE, East West University
 [GitHub](https://github.com/Zahid074)
+**Marjan Hasan (Marjan15H)**
+CSE, East West University
+[GitHub](https://github.com/Marjan15H)
+**Marzia Hasan (Marzia-H)**
+CSE, East West University
+[GitHub](https://github.com/Marzia-H)
+**Md Hasan Al Mamun**
+CSE, East West University
+**Sazzatul Islam**
+CSE, East West University
 
 ## 📄 License
 
